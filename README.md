@@ -1,4 +1,4 @@
-# 👤 User Registration with External API Check
+# 👤 User Registration
 
 This project demonstrates a full-stack implementation of user registration where the backend checks an external API before registering the user. It also supports fetching and displaying users from an API.
 
